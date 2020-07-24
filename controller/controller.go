@@ -35,7 +35,8 @@ func Getslug(slug string) (*models.Link, error) {
 		return nil, err
 	}
 	fmt.Println(link)
-	log.Printf("Todos: %v")
 	return link, nil
 
 }
+
+// 
