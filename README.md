@@ -1,4 +1,4 @@
 # URL Shortner
 
 ## Run
-``go run main.go
+``go run main.go``
